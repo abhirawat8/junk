@@ -25,7 +25,6 @@ def compress(s):
         return s + "1"
 
     #Intialize Values
-    last = s[0]
     cnt = 1
     i = 1
 
